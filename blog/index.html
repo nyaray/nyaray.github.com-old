@@ -1,0 +1,12 @@
+---
+layout: default
+title: Blog
+---
+{% for p in site.posts %}
+<h2 class="entry-title"><a href="{{ p.url }}">{{ p.title }}</a></h2>
+<div class="entry-meta">
+    <span class="meta-prep meta-prep-author">Posted on</span>
+    <a href="{{ p.url }}" rel="bookmark"><span class="entry-date">{{ p.date | date_to_string }}</span></a>
+</div>
+{{ p.content }}
+{% endfor %}

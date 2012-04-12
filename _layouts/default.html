@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="author" content="Emilio Nyaray" />
+
+    <link rel="stylesheet" href="https://raw.github.com/necolas/normalize.css/master/normalize.css" />
+    <link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Pacifico' />
+    <link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Pacifico' />
+    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/css/pygments.css" />
+
+    <title>{% if page.title %}{{ page.title }} | {% endif %}Emilio Nyaray</title>
+</head>
+<body>
+    <header role="banner"><h1>Emilio Nyaray</h1></header>
+    <nav id="access" role="navigation">
+        <div class="menu">
+            <ul>
+                <li><a href="/" title="Home">Home</a></li>
+                <li><a href="/skills/" title="Skills">Skills</a></li>
+                <li><a href="/experience/" title="Experience">Experience</a></li>
+                <li><a href="/upphack/" title="UppHack">UppHack</a></li>
+                <li><a href="/geekmeet/" title="Geek Meet">Geek Meet</a></li>
+                <li><a href="/omteknikveckan/" title="Om Teknikveckan">Om Teknikveckan</a></li>
+                <li><a href="/blog/" title="Blog">Blog</a></li>
+            </ul>
+        </div>
+        <h2>Developer</h2>
+        <h3>emilio@nyaray.com</h3>
+    </nav><!-- #access -->
+    <section id="content" role="main">
+        {% if page.title %}<h2>{{ page.title }}</h2>{% endif %}
+        {{ content }}
+    </section><!-- #main -->
+    <footer role="contentinfo">
+        <h3 id="quote" role="distraction">
+            Keepin' it real like floats and doubles, trying to write code
+            without causing trouble.
+        </h3>
+
+      <h4 class="footynotes">Most if not all content copyright 2011 - Emilio Nyaray.</h4>
+      <h4 class="footynotes"><a href="mailto:emilio@nyaray.com?subject=Copyright%20questions">Contact</a> for questions.</h4>
+
+    </footer><!-- footer -->
+</body>
+</html>

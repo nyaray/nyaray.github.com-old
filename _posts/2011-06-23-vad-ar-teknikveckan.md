@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: default
 title: "Vad \xC3\xA4r Teknikveckan?"
 published: true
 meta: 

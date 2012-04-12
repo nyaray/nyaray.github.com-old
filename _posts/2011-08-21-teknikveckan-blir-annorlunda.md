@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: default
 title: Teknikveckan blir annorlunda!
 published: true
 meta: 

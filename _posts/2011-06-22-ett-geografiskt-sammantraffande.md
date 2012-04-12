@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: default
 title: "Geografiskt sammantr\xC3\xA4ffande?"
 published: true
 meta: 
