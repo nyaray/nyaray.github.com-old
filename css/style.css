@@ -239,8 +239,8 @@ aside#specifics ol li {
 }
 
 aside {
-  float:right;
-  width:400px;
+  float:left;
+  width:350px;
 }
 
 .xoxo {
@@ -266,9 +266,8 @@ aside {
 }
 
 #pic {
-  float:left;
-  clear:left;
-  width:400px;
+  float:right;
+  width:350px;
   margin-top:35px;
 }
 
