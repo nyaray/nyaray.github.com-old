@@ -68,6 +68,7 @@ table {
 body {
   width:960px;
   margin:0 auto;
+  padding-top:10px;
   border-width:0 4px;
   font-family:"Lucida Sans Unicode", "Lucida Grande", Verdana, Arial,
     Helvetica, sans-serif;
