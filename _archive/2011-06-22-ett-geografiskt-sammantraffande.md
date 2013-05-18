@@ -9,6 +9,9 @@ tags:
 type: post
 status: publish
 ---
+
+{% include page_before.html %}
+
 <h2>När jag sett mig omkring...</h2>
 <p>
 ...de senaste månaderna, har jag börjat få upp ögonen för entreprenörsklimatet i Uppsala (och Sverige, i viss mån). När jag drömmande jämför det med San Fransisco, USA, så blir jag lite nedstämd. Skälet till det är att några av världens tyngsta teknikbolag (bl.a. Facebook och Google) och det prestigefyllda Stanford-universitetet finns där. Att silicon valleys jättar nämns är ju ganska uppenbart med tanke på min inledning, men även Stanford behöver nämnas i sammanhanget eftersom de brukar utbilda allehanda (tekniska såväl som otekniska) entreprenörer.
@@ -59,3 +62,5 @@ Var är kulturen och det där svenska drivet som jag minns att jag fick en bild 
 <p>
 <b>Uppdatering</b>: Jag glömde nämna att jag har <a href="http://nyaray.com/teknikveckan">ett förslag</a> på vad man kan göra för att göra situationen bättre, hör av dig om du vill vara med och göra det till verklighet ;).
 </p>
+
+{% include page_after.html %}

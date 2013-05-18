@@ -3,6 +3,9 @@ layout: default
 title: Distributed erlang, part 1.
 published: true
 ---
+
+{% include page_before.html %}
+
 <h2>"What is this?! I don't even..."</h2>
 
 I'm mainly writing this as a note to myself for future reference, the purpose of this post is to aid the reader (probably just me :P) in setting up two erlang nodes on one computer so that they can communicate with each other and to test the setup by sending a message with the help of erlangs awesome message passing.
@@ -64,3 +67,5 @@ That's all there is to it, hopefully this will help you in setting up your own a
 
 
 Happy hacking!
+
+{% include page_after.html %}

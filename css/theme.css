@@ -1,0 +1,110 @@
+/* general */
+
+a {
+  color: #00cc88;
+}
+
+a:hover,
+a:focus {
+  color: #008055;
+}
+
+h1 { font-size: 115pt; line-height: 115pt; margin-top:20px; }
+h2 { font-size: 26pt; }
+h3 { font-size: 18pt; }
+
+.visible-tablet.main-title {
+    font-size: 60pt;
+    line-height: 80pt;
+}
+
+.visible-phone.main-title {
+    font-size: 40pt;
+    line-height: 60pt;
+}
+
+ul, ol {
+    list-style: none;
+}
+
+h1, .main-title {
+    font-family: 'Pacifico', sans-serif;
+    text-align: center;
+}
+
+img {
+    border-radius: 10px;
+}
+
+p {
+    max-width: 420px;
+}
+
+.menu {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.biglist li {
+    font-size:   18pt;
+    line-height: 18pt;
+}
+
+.menu a {
+  display:block;
+  float:left;
+  height:30px;
+  margin-right:5px;
+  padding:3px 15px;
+  font-size:16pt;
+  font-weight:bold;
+}
+
+.menu h2,
+.menu h3 {
+  display:block;
+  float:right;
+  clear:right;
+  margin-right:80px;
+}
+
+.menu h2 {
+  position:absolute;
+  font-size:42pt;
+}
+
+.menu h3 {
+  position:absolute;
+  /*top:-60px;*/
+  left:230px;
+
+  font-size:20pt;
+}
+
+.menu li {
+  float:left;
+}
+
+.container {
+    padding-bottom: 40px;
+    /*background-color: #ccc;*/
+}
+
+.right {
+    text-align: right;
+    font-style: italic;
+    vertical-align: top;
+}
+
+.thing1, .thing2 {
+    /*background-color: #ddd;*/
+}
+
+.footynotes {
+    text-align: center;
+}
+
+#content {
+    margin-bottom: 40px;
+}
+

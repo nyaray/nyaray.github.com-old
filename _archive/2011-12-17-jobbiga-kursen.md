@@ -10,6 +10,9 @@ tags:
 type: post
 status: publish
 ---
+
+{% include page_before.html %}
+
 Reccar och tvåor (och andra som ännu inte fattat PM1/PK/PKD och/eller AD1/2) på DV i Uppsala!
 
 Om ni inte har en (man) crush på LHE och Pierre än så ska jag förklara varför ni borde ha det och därmed fundera över i princip allt de säger. Två gånger.
@@ -30,3 +33,5 @@ Pierre kommer visa er var skåpet ska stå när det gäller att angripa och anal
 
 <h2>Sikta långt</h2>
 Avslutningsvis vill jag bara uppmuntra er till att jobba hårt och fokusera på era långsiktiga mål. Kom ihåg att ni inte är ensamma och att det i princip alltid finns någon som är bättre än en själv som man kan fråga om saker, ta vara på det.
+
+{% include page_after.html %}

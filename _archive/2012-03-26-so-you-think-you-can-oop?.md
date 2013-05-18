@@ -3,6 +3,9 @@ layout: default
 title: So You Think You Can OOP?
 published: true
 ---
+
+{% include page_before.html %}
+
 Having a rudimentary understanding of and skills in Object-Oriented Programming (OOP, for short) is something that (and according to me, rightfully so) is expected of most developers that are going to be working in the real world. You should be aware of things like inheritance, interfaces, abstract classes, UML diagrams and a bunch of other special words and three letter acronyms (TLA's). But there's more!
 
 <h2>Go Through The Rabbit Hole</h2>
@@ -21,3 +24,4 @@ Since I'm not going to do your homework, as there's a ton of resources online, I
 
 <script src="https://gist.github.com/2210045.js"> </script>
 
+{% include page_after.html %}

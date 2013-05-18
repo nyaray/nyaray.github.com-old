@@ -9,6 +9,9 @@ tags:
 type: post
 status: publish
 ---
+
+{% include page_before.html %}
+
 <h2>Lösningen på problemet</h2>
 <p>Ni som vet <a href="http://nyaray.com/2011/06/ett-geografiskt-sammantraffande/">vad jag tycker</a> om min utbildnings kontakt med näringslivet förstår säkert varför jag tycker att man borde göra något annorlunda. De av er som läst det länkade inlägget ordentligt har nog fått mer än ett hum om vad jag tycker att man borde göra för att knyta bättre kontakter mellan studenterna och näringslivet.</p>
 
@@ -67,3 +70,5 @@ status: publish
 </p>
 
 Hör gärna av er till mig på <em>emilio [snabelbulle] nyaray [punkt] com</em> om ni har synpunkter på schemat, vill hjälpa mig att göra det till verklighet eller bara är nyfikna!
+
+{% include page_after.html %}
