@@ -3,7 +3,7 @@ layout: post
 title: From My Brain
 ---
 
-Out of my mind. On the web.
+Out of my mind. Onto the web.
 
 <ul class="posts">
     {% for post in site.posts %}
