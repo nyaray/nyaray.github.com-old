@@ -13,6 +13,8 @@ Ett hackathon går ut på att man sitter och streckkodar på ett projekt/en idé
 12-48 timmar för att göra en prototyp eller börja bygga ut ett befintligt
 projekt.
 
+[Läs mer](http://upphack.se "Läs mer om UppHack")
+
 _UppHack is going to be a hackathon for anyone in the vicinity of or willing to
 travel to Uppsala, Sweden._
 
