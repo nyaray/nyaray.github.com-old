@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Starting Anew"
+category: "thoughts"
 ---
 
 After a re-implementation of the design, with some tweaks and the addition of

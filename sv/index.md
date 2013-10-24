@@ -1,13 +1,13 @@
 ---
 layout: post
-title: From My Brain
+title: In Swedish
 ---
 
-Out of my mind. Onto the web.
+These posts are in swedish.
 
 <ul class="posts">
     {% for post in site.posts %}
-    {% if post.category == "thoughts" %}
+    {% if post.category == "sv" %}
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endif %}
     {% endfor %}
