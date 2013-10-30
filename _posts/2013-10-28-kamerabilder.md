@@ -17,7 +17,6 @@ Klart ingen orkar det. Hallå!
 
 Jag började i Stockholm med ett hipstrigt instagraminlägg om projekt
 solbleka håret eller något åt det hållet.
-
         </div>
         <div class="span4"><img src="/img/131028/DSC_1.jpg" /></div>
     </div>
@@ -28,7 +27,6 @@ solbleka håret eller något åt det hållet.
 
 <a href="http://www.youtube.com/watch?v=Eo-KmOd3i7s&amp;t=1m6s">Youtube räcker.</a>
 Jag köpte en bok också! Tips från en god vän :)
-
         </div>
     </div>
     <div class="row-fluid pushTop">
@@ -45,7 +43,6 @@ Hade nästan glömt att de fanns!
 .. telefon.. maskinerna.
 
 Med sladdar.
-
         </div>
     </div>
     <div class="row-fluid pushTop">
@@ -55,7 +52,6 @@ Med sladdar.
 Det var kvavt utomhus, lite som att gå in i en bastu, efter att ha gått i en
 svaaal och klimatkontrollerad flygplats ut till en utomhusruta för att ta lite
 frisk luft i den rökfria delen.
-
         </div>
         <div class="span4"><img src="/img/131028/DSC_5949.jpg" /></div>
     </div>
@@ -67,7 +63,6 @@ Men det var najs ändå!
 Varningarna om buggig kod till trots så gick det rätt bra att gå omkring i
 flygplatsen i Singapore (om det här är för nördigt, läs vidare, jag får skämmas
 när vi träffas eller nått..).
-
         </div>
         <div class="span4"><img src="/img/131028/DSC_5951.jpg" /></div>
     </div>
@@ -78,7 +73,6 @@ när vi träffas eller nått..).
 Målet med allt flygande var äntligen nått, klockan var tidigt, men det sket min
 kropp och hjärna i. Jag var trasig efter två-tre dygn med ynka 6 timmars sömn
 (för det är tydligen så det blir när man får resfeber dagen innan man åker..).
-
         </div>
         <div class="span4"><img src="/img/131028/DSC_5954.jpg" /></div>
     </div>
@@ -93,7 +87,6 @@ kropp och hjärna i. Jag var trasig efter två-tre dygn med ynka 6 timmars sömn
 
 På andra sidan jordklotet, när jag lämnade flygplatsen, såg jag något jag kände
 igen och turistfotade det i all hast innan det försvann. Sandvik!
-
         </div>
     </div>
     <div class="row-fluid pushTop">
@@ -112,7 +105,6 @@ jordnötssmör!
 ### Bitches love lakrits
 
 Så jag tog med lite till Lukas och han åt den med frukosten ett par dagar.
-
         </div>
     </div>
     <div class="row-fluid pushTop">
@@ -122,7 +114,6 @@ Så jag tog med lite till Lukas och han åt den med frukosten ett par dagar.
 Tydligen så cyklar jag i skogen numera.
 
 FETT KUL. FETT VACKERT.
-
         </div>
     </div>
     <div class="row-fluid pushTop">
@@ -140,7 +131,6 @@ FETT KUL. FETT VACKERT.
 Jag var egentligen aldrig nära att ramla, men det var en kul bild att ta.
 
 Spicade upp vardagen lite, liksom.
-
         </div>
     </div>
     <div class="row-fluid pushTop">
@@ -153,7 +143,6 @@ Spicade upp vardagen lite, liksom.
 ### Som sagt..
 
 .. naturen är vacker :)
-
         </div>
     </div>
     <div class="row-fluid pushTop">
@@ -162,7 +151,6 @@ Spicade upp vardagen lite, liksom.
 
 Naturen finns alltid i närheten, var man än är, ibland är det en snäll liten
 spindel, ibland en liten ödla på altanväggen.
-
         </div>
         <div class="span4"><img src="/img/131028/DSC_6018.jpg" /></div>
     </div>
@@ -174,7 +162,6 @@ spindel, ibland en liten ödla på altanväggen.
 ### Om nom nom
 
 God mat, godis och gott sällskap! BAM!
-
             </div>
 
             <img src="/img/131028/DSC_6026.jpg" />
@@ -186,7 +173,6 @@ God mat, godis och gott sällskap! BAM!
 ### Honey comb
 
 Socker, honung, sirap och choklad. Frågor på det?
-
             </div>
         </div>
     </div>
@@ -196,7 +182,6 @@ Socker, honung, sirap och choklad. Frågor på det?
 
 Det var något med de här stenarna och snäckbiten (hint: de var släta, hela och
 det jag råkade se på stranden), så jag var bara tvungen att plocka på mig dem!
-
         </div>
         <div class="span4"><img src="/img/131028/DSC_6091.jpg" /></div>
     </div>
@@ -219,7 +204,6 @@ Den sista visar mig, något utmattad, i hängmattan efter att ha varit iväg och
 åkt downhill två dagar i rad. Det blev jag visst trött av. Väldigt. Trött.
 
 Men det är priset man betalar som ovan äventyrsmotionär.
-
         </div>
     </div>
     <div class="row-fluid pushTop">
