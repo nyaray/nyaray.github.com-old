@@ -8,7 +8,7 @@ Här kommer det mer kamerabilder, men det blir inget uppsatsskrivande eftersom
 en bild säger mer än tusen ord. Fatta vad jobbigt att skriva circa 30 000(!)
 ord.
 
-Klart ingen orkar det.
+Klart ingen orkar det. Hallå!
 
 <div class="container">
     <div class="row-fluid">
