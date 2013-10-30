@@ -26,7 +26,7 @@ solbleka håret eller något åt det hållet.
         <div class="span4" markdown="1">
 ### Du-baby-bai, bai, bai
 
-<a href="http://www.youtube.com/watch?v=Eo-KmOd3i7s&t=1m6s">Youtube räcker.</a>
+<a href="http://www.youtube.com/watch?v=Eo-KmOd3i7s&amp;t=1m6s">Youtube räcker.</a>
 Jag köpte en bok också! Tips från en god vän :)
 
         </div>
