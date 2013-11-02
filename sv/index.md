@@ -1,15 +1,13 @@
 ---
-layout: post
+layout: post_index
 title: In Swedish
 ---
 
 These posts are in swedish.
 
 <ul class="posts">
-    {% for post in site.posts %}
-    {% if post.category == "sv" %}
+    {% for post in site.categories.sv %}
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endif %}
     {% endfor %}
 </ul>
 

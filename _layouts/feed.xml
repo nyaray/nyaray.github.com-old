@@ -10,7 +10,7 @@ layout: none
         <description>{{ page.feed_title }}.</description>
         <link>{{ site.url }}</link>
         <atom:link
-            href="{{ site.url }}/{{ page.url }}/feed.xml"
+            href="{{ site.url }}{{ page.url }}"
             rel="self"
             type="application/rss+xml" />
         {% for post in site.posts limit: 10 %}
