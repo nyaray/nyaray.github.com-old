@@ -1,5 +1,5 @@
 ---
-layout: post_index
+layout: post
 title: From My Brain
 ---
 
