@@ -3,10 +3,8 @@ layout: none
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <!-- site: {{ site }}-->
-    <!-- page: {{ page }}-->
     <channel>
-        <title>{{ site.name }} | {{ page.feed_title }}</title>
+        <title>{{ site.title }} | {{ page.feed_title }}</title>
         <description>{{ page.feed_title }}.</description>
         <link>{{ site.url }}</link>
         <atom:link
