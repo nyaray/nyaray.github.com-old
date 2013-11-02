@@ -6,7 +6,7 @@ layout: none
     <!-- site: {{ site }}-->
     <!-- page: {{ page }}-->
     <channel>
-        <title>{{ site.name }} My Thoughts</title>
+        <title>{{ site.name }} | {{ page.feed_title }}</title>
         <description>{{ page.feed_title }}.</description>
         <link>{{ site.url }}</link>
         <atom:link
