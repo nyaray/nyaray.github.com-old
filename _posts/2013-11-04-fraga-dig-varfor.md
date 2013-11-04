@@ -75,7 +75,7 @@ __Svaren spelar ingen roll. Det blir bra :)__
 Och alla dessa frågeställningar är bara lyxproblem i botten. I. Mitt. Huvud.
 Jag såg till och med svaret på allt det här på ett TV-program igår kväll.
 
-"Ride the wave of anxiety", till vilket jag tillägger "and surf the wave".
+"Ride the wave of anxiety", till vilket jag tillägger "and surf it".
 
 Ibland behöver man bara sitta ner, ventilera och andas lite. Ovissheten är det
 enda säkra vi har, utöver vår inställning till den. Därför är det viktigt att
