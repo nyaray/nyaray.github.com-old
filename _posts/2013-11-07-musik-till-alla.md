@@ -19,10 +19,10 @@ trådlösa! Blir dem smutsiga så är det bara att slänga dem i tvätten och k�
 dem klarar det :). Man kan även spela vilken stil man vill, allt mellan funk,
 punk, country och soul.
 
-Självklart är gitarrerna en skämtpryl, men den fina(!) twisten på dem är att
-det hela är på initiativ av en organisation som använder musik för att hjälpa
-de mest utsatta barnen att genom musik hitta en uttrycksform som passar dem för
-att komma åt alla fördelar det ger.
+Självklart är luftinstrumenten en skämtpryl, men den fina(!) twisten på dem är
+att det hela är på initiativ av en organisation som använder musik för att
+hjälpa de mest utsatta barnen att genom musik hitta en uttrycksform som passar
+dem för att komma åt alla fördelar det ger.
         </div>
         <div class="span6"><img src="/img/131107/IMG_20131028_070840.JPG" /></div>
     </div>
