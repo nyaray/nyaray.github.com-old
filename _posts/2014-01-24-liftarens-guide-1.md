@@ -15,13 +15,11 @@ av att inte veta var/när nästa vägguttag kommer dyka upp. Sen brukar det kost
 rätt ordentligt om man vill ha tillgång till internet när man väl är på ett
 hostel; campingplatserna ska vi inte ens prata om vad gäller internet och el.
         </div>
-        <div class="span6">
-            <img src="/img/140124/IMG_20140124_144738.jpg" />
-
-            <hr />
-
-            Utsikten från bussen när vi lämnade Wellington, huvudstaden, som
-            ligger längst söderut på den norra ön.
+        <div class="span6" markdown="1">
+<img src="/img/140124/IMG_20140124_144738.jpg" />
+<hr />
+Utsikten från bussen när vi lämnade Wellington, huvudstaden, som ligger längst
+söderut på den norra ön.
         </div>
     </div>
 </div>

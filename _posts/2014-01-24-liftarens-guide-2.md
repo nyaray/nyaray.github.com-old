@@ -28,7 +28,7 @@ jordbävningarna.
         </div>
     </div>
     <div class="row-fluid">
-        <div class="span4">
+        <div class="span4" markdown="1">
 Jag antar att det gamla köpcentret fick demoleras för att i mitten av staden
 finns det en samling containrar som tillsammans utgör köpcentrat re:start mall.
 
@@ -40,14 +40,14 @@ inredningen skiljer dem åt, såklart.
         </div>
     </div>
     <div class="row-fluid">
-        <div class="span12">
-            <img src="/img/140124/IMG_20131220_181637.jpg" />
-            _Kottarna. Växer. Uppochned... Ibland. Inget konstigt när man är på
-            jordens undersida, liksom._
+        <div class="span12" markdown="1">
+<img src="/img/140124/IMG_20131220_181637.jpg" />
+_Kottarna. Växer. Uppochned... Ibland. Inget konstigt när man är på jordens
+undersida, liksom._
         </div>
     </div>
     <div class="row-fluid">
-        <div class="span8">
+        <div class="span8" markdown="1">
 Tydligen brukar företagen här avrunda på girigast möjliga sätt, så man utmärker
 sig genom att vara sådär svenskt rättvis som det bara går att vara med Swedish
 i namnet på metoden.
@@ -59,11 +59,10 @@ Var är mina fucking ören... eh, cent?!
         </div>
     </div>
     <div class="row-fluid pushTop">
-        <div class="span12">
-            <img src="/img/140124/IMG_20131224_135445.jpg" />
-            Dekorationerna kunde ta flera former, ibland var det väggmålningar,
-            andra gånger var det små plastrutor fästa vid stängslen för att
-            rita fina mönster.
+        <div class="span12" markdown="1">
+<img src="/img/140124/IMG_20131224_135445.jpg" />
+Dekorationerna kunde ta flera former, ibland var det väggmålningar, andra
+gånger var det små plastrutor fästa vid stängslen för att rita fina mönster.
         </div>
     </div>
     <div class="row-fluid">
@@ -75,16 +74,16 @@ Var är mina fucking ören... eh, cent?!
         </div>
     </div>
     <div class="row-fluid pushTop">
-        <div class="span12">
+        <div class="span12" markdown="1">
 Ett rörpiano, som man spelar med gamla flip-flops som sitter på formskurna
 plank-bitar. Bland annat. #fuckyeah
         </div>
     </div>
     <div class="row-fluid">
-        <div class="span12">
-            <img src="/img/140124/IMG_20131225_133647.jpg" />
-            Ut med molnen och in med solskenet. En stad i återhämtningsfasen
-            efter att naturen visat vem som är bossen.
+        <div class="span12" markdown="1">
+<img src="/img/140124/IMG_20131225_133647.jpg" />
+Ut med molnen och in med solskenet. En stad i återhämtningsfasen efter att
+naturen visat vem som är bossen.
         </div>
     </div>
     <div class="row-fluid">
@@ -96,7 +95,7 @@ plank-bitar. Bland annat. #fuckyeah
         <div class="span6">
             <img src="/img/140124/IMG_20131226_154842.jpg" />
         </div>
-        <div class="span6">
+        <div class="span6" markdown="1">
 Jag har hittat var alla volvo-bilar med ratten på fel sida hamnar när de
 upptäcker misstaget i fabrikerna!
 
@@ -105,8 +104,8 @@ fall!
         </div>
     </div>
     <div class="row-fluid pushTop">
-        <div class="span12">
-            Packningen jag skulle komma att inleda min självständiga resa med!
+        <div class="span12" markdown="1">
+Packningen jag skulle komma att inleda min "självständiga" resa med!
         </div>
     </div>
     <div class="row-fluid">
@@ -211,11 +210,10 @@ skrattade åt en del saker och pratade om allt möjligt.
         </div>
     </div>
     <div class="row-fluid pushTop">
-        <div class="span12">
-            <img src="/img/140124/IMG_20140109_134909.jpg" />
-            Jag hittade en trästump som jag såg ett ansikte i och började karva
-            fram dragen tydligare, inspirerad av något en kusin till mig gjorde
-            i sommras.
+        <div class="span12" markdown="1">
+<img src="/img/140124/IMG_20140109_134909.jpg" />
+Jag hittade en trästump som jag såg ett ansikte i och började karva fram dragen
+tydligare, inspirerad av något en kusin till mig gjorde i sommras.
         </div>
     </div>
     <div class="row-fluid pushTop">
@@ -271,23 +269,22 @@ lyder att det inte kan råda nöd på den som liftar med resväskor och att det
 kanske råder lite för mycket nöd på den som inte har någon packning alls...
     </div>
     <div class="row-fluid pushTop">
-        <div class="span12">
-            <img src="/img/140124/IMG_20140110_152934.jpg" />
-            _Valentina och Federico, som för övrigt ser ut som Robert Downey
-            Jr._
+        <div class="span12" markdown="1">
+<img src="/img/140124/IMG_20140110_152934.jpg" />
+_Valentina och Federico, som för övrigt ser ut som Robert Downey Jr._
         </div>
     </div>
     <div class="row-fluid pushTop">
-        <div class="span12">
-            <img src="/img/140124/IMG_20140111_171357.jpg" />
-            Stenstaplar brukar representera en "point of interest" och det
-            gjorde minsann den här!
+        <div class="span12" markdown="1">
+<img src="/img/140124/IMG_20140111_171357.jpg" />
+Stenstaplar brukar representera en "point of interest" och det gjorde minsann
+den här!
         </div>
     </div>
     <div class="row-fluid pushTop">
-        <div class="span12">
-            <img src="/img/140124/IMG_20140114_211453.jpg" />
-            Nattvandring i Nelson med ett par andra backpackers.
+        <div class="span12" markdown="1">
+<img src="/img/140124/IMG_20140114_211453.jpg" />
+Nattvandring i Nelson med ett par andra backpackers.
         </div>
     </div>
     <div class="row-fluid pushTop">
@@ -351,7 +348,7 @@ komma att träffa Federico igen!
         </div>
     </div>
     <div class="row-fluid pushTop">
-        <div class="span12">
+        <div class="span12" markdown="1">
 Det var ett kärt återseende och vi hängde ett par gånger, den ena sittandes med
 våra gitarrer på en av huvudgatorna, spelandes för vem som nu råkade passera.
 Mitt i natten. Det var en bra jamsession :).
@@ -366,7 +363,7 @@ Mitt i natten. Det var en bra jamsession :).
         </div>
     </div>
     <div class="row-fluid pushTop">
-        <div class="span12">
+        <div class="span12" markdown="1">
 I Wellington svängde jag även förbi deras enorma museum som var gratis och kul.
 Det fanns en vägg man kunde leka med ord som satt fast på väggen med magneter
 och en annan där man kunde sätta upp kalkeringar man gjort. Jag tog och
