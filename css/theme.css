@@ -10,8 +10,14 @@ a:focus {
 }
 
 body {
+    padding-top: 150px;
     font-size: 16pt;
     line-height: 1em;
+    background-image: url("/gfx/banner2.jpeg");
+    background-color: #000;
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: 100%;
 }
 
 h1 {
@@ -99,6 +105,8 @@ p {
 
 .container {
     padding-bottom: 40px;
+
+    background-color: #fff;
 }
 
 .icon-inline {
