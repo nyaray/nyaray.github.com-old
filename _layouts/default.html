@@ -15,23 +15,24 @@
     <title>{% if page.title %}{{ page.title }} | {% endif %}Emilio Nyaray</title>
 </head>
 <body>
+
     <div class="container">
-        <div id="top-row" class="row-fluid">
-            <div class="span12">
-                <h1 class="visible-desktop">#nerdlife</h1>
-                <span class="main-title visible-tablet">#nerdlife</span>
-                <span class="main-title visible-phone">#nerdlife</span>
+
+        <div class="row-fluid">
+            <div class="span6 offset3">
+                <a href="/"><h1>Wrong Writings</h1></a>
             </div>
         </div>
+
         <div class="row-fluid">
-            <div class="span10 offset2 menu">
-                <span><a href="/" title="Home">Home</a></span>
-                <!--<span><a href="/upphack/" title="upphack">UppHack</a></span>-->
+            <div class="span6 offset3 menu">
+                <!--<span><a href="/" title="Home">Home</a></span>-->
                 <span><a href="/artsy/" title="Artsy">Artsy</a></span>
                 <span><a href="/sv/" title="In Swedish">In Swedish</a></span>
-                <span><a href="/thoughts/" title="Thoughts">Thoughts</a></span>
+                <span class="last"><a href="/thoughts/" title="Thoughts">Thoughts</a></span>
             </div>
         </div>
+
         <div class="row-fluid">
             <div class="span9 offset2">
                 {% if page.title %}<h2>{{ page.title }}</h2>{% endif %}
@@ -48,7 +49,6 @@
             </div>
         </div>
     </div>
-</div>
 <script src="http://code.jquery.com/jquery.js"></script>
 <script src="/js/bootstrap.min.js"></script>
 <script>

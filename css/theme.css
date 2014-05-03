@@ -10,21 +10,23 @@ a:focus {
 }
 
 body {
-    padding-top: 150px;
     font-size: 16pt;
     line-height: 1em;
-    background-image: url("/gfx/banner2.jpeg");
-    background-color: #000;
-    background-position: top center;
-    background-repeat: no-repeat;
-    background-size: 100%;
+
+    /*padding-top: 100px;*/
+    /*background-image: url("/gfx/banner2.jpeg");*/
+    /*background-color: #000;*/
+    /*background-position: top center;*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100%;*/
 }
 
 h1 {
     font-weight: normal;
-    font-size: 115pt;
-    line-height: 115pt;
-    margin-top: 20px;
+    font-size: 56px;
+    line-height: 56px;
+    margin-top: 10px;
+    margin-bottom: 30px;
 }
 
 h2 { font-size: 26pt; }
@@ -59,14 +61,29 @@ p {
     line-height: 1.5em;
 }
 
-.menu {
-    margin-top: 20px;
-    text-align: center;
-}
-
 .biglist li {
     font-size: 18pt;
     line-height: 18pt;
+}
+
+.menu {
+    /*text-align: center;*/
+}
+
+.menu span {
+    margin-right: 10px;
+    padding-right: 10px;
+    border-right: 1px solid #ccc;
+}
+
+.menu .last {
+    border: none;
+}
+
+/*
+.menu {
+    margin-top: 20px;
+    text-align: center;
 }
 
 .menu a {
@@ -102,6 +119,7 @@ p {
 .menu li {
   float: left;
 }
+*/
 
 .container {
     padding-bottom: 40px;
