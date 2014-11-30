@@ -38,6 +38,3 @@ i vårens vind.<br />
 Hör blåklockor klämta<br />
 nu.
 
-<hr />
-
-_Fred och kärlek_

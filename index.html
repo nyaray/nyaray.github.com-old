@@ -3,28 +3,19 @@ layout: default
 published: true
 ---
 
-<div class="row-fluid">
-    <div class="span6 offset3">
-        <img id="pic" src="/gfx/banner.jpeg" alt="Me." />
-    </div>
-</div>
-
-<div class="row-fluid">
-    <div class="span6 offset3">
-        <h2>Hej!</h2>
-    </div>
-</div>
-
-<div class="row-fluid">
-    <div class="span6 offset3">
-        <p>My name is Emilio and I'm currently living in
-            <a href="https://maps.google.se/?q=Märsta,%20Sweden&z=6">Märsta, Sweden</a>.
-        </p>
-        <small><p>
-            I LOVE writing and performing music and have an interest in problem
-            solving for humans, but I also enjoy the
-            <a href="http://instagram.com/p/TCywvFw9PY/">occasional pun</a>.
-            I earn my keep through <a href="http://npz.se">NPZ</a>.
-        </p></small>
-    </div>
+<div class="span8 offset2">
+    <p>
+        Här samlar jag saker jag av en eller annan anledning <em>behövt</em>
+        skriva. Saker jag väljer att skriva finns under undersidorna.
+    </p>
+    <ul class="posts">
+        {% for post in site.categories.artsy %}
+        <li><span>{{ post.date | date: "%Y-%m-%d" }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+    </ul>
+    <p>
+        Om du vill e-stalka mig så kan du
+        <a href="feed.xml"><img class="icon-inline" src="/gfx/icon-feed.png" />prenumerera</a>,
+        kompis.
+    </p>
 </div>

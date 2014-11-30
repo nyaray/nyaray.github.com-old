@@ -38,4 +38,3 @@ But at least I got away.
 At least I got away.<br />
 At last I got a way.
 
-<hr />
