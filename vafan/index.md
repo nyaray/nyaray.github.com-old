@@ -19,7 +19,7 @@ title: Vafan?
     </div>
 </div>
 <p>
-    Jag har jobbat som systemutvecklare, konsult och egenföretagare, i
+    Jag har jobbat som konsult, systemutvecklare och egenföretagare, i
     den ordningen. Just nu går jag låtskrivarutbildningen vid
     Biskops-Arnös folkhögskola.
 </p>
