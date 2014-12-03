@@ -30,6 +30,6 @@ Det ser så ut.
 
 ---
 
-Var kommer du att stå<br />
+Var kommer du stå<br />
 när det väl händer?
 
