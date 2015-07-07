@@ -9,9 +9,9 @@ title: Vafan?
             Jag heter Emilio!
         </p>
         <p>
-            Skrivandet är för mig den ultimata hjälpen till självhjälp och ett
-            väldigt effektivt sätt att komma i kontakt med tankar och känslor
-            som i vanliga fall kan vara jobbiga att ta itu med.
+            Skrivandet är fett bra hjälp till självhjälp och ett
+            effektivt sätt att komma i kontakt med tankar och känslor
+            som i vanliga fall kan vara jobbiga att ta itu med. Woo!
         </p>
     </div>
     <div class="span4">
@@ -20,12 +20,5 @@ title: Vafan?
 </div>
 <p>
     Jag har jobbat som konsult, systemutvecklare och egenföretagare, i
-    den ordningen. Just nu går jag låtskrivarutbildningen vid
-    Biskops-Arnös folkhögskola.
-</p>
-<p>
-    Det senaste året har jag kommit underfund med att jag är en
-    låtskrivare och musiker som har ett otroligt starkt
-    teknikintresse, vilket är lite lustigt då jag skrev min första låt
-    för ca 10 år sen.
+    den ordningen. Jag är visst också låtskrivare.
 </p>
