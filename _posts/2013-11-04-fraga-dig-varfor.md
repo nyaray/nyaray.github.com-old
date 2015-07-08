@@ -16,9 +16,8 @@ under ytan, i mitt undermedvetna.
 
 Om jag får bjuda på mina tankar..
 
-<div class="container-fluid">
-    <div class="row-fluid">
-        <div class="span6" markdown="1">
+<div class="row-fluid">
+<div class="span6" markdown="1">
 __När jag inte skriver så söker jag, mer eller mindre omedvetet, ämnen att
 skriva om. Det är en vana, en sorts reflex, jag byggt upp under ett års tid som
 låter mig brygga gapet mellan mitt undermedvetna och mitt tänkande, lätt
@@ -28,13 +27,12 @@ __Många gånger är det de enklaste sakerna; ett föremål, en mening någon s�
 eller en syn som oväntat blir en metafor för något eller bara är kul att säga.
 Då måste jag fånga chansen, jag pratar med mig själv och säger det jag inte
 lyckats berätta för mig själv än. Då måste jag lyssna och anteckna.__
-        </div>
-        <div class="span6" markdown="1">
+</div>
+<div class="span6" markdown="1">
 <img src="/img/131104/DSC_6313.jpg" />
 
 _En enkel bild till mina enkla ord._
-        </div>
-    </div>
+</div>
 </div>
 
 __Den här gången var det utsikten över stilla havet som triggade.__
